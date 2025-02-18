@@ -1,5 +1,5 @@
 # raft-java
-Raft implementation library for Java.
+A study and implementation of raft in Java.
 
 Based on the [Raft paper](https://github.com/maemual/raft-zh_cn) and the open-source Raft implementation by the Raft author, [LogCabin](https://github.com/logcabin/logcabin).
 
